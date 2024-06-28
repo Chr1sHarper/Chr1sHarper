@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: **https://www.linkedin.com/in/chrisharper24/**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I have competed in multiple bodybuilding competitions**
+- ![Chris](chris.png)
+ 
