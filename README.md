@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning **Python**
+- 👯 I’m looking to collaborate on **Projects involving social causes**
+- 🤔 I’m looking for help with **Technical PM opportunities in Seattle**
+- 💬 Ask me about **My AI adventures at Microsoft**
+- 📫 How to reach me: **https://www.linkedin.com/in/chrisharper24/**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: **I have competed in multiple bodybuilding competitions**
